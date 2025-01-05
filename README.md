@@ -1,5 +1,7 @@
 # 👨🏻‍💻 Stanley Cheung 
 
+`Backend Developer`
+
 - 🔭 I’m currently working on learning backend development
 - 🌱 I’m currently learning machine learning, algorithms and data structures, data science
 - 👯 I’m looking to collaborate on coding projects
