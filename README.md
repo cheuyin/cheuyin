@@ -8,3 +8,8 @@
 - 💬 Ask me about computer science, ethical dilemmas, hypertrophy, bulking on a budget
 - 📫 How to reach me: email, LinkedIn
 - ⚡ Fun fact: currently taking a course on early Chinese history!
+
+---
+
+## 📊 Stats
+[![cheuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheuyin)](https://github.com/anuraghazra/github-readme-stats)
