@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Stanley Cheung 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F77D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Stanley!;I'm+a+3rd+year+CS+Major+at+UBC;I+like+to+learn%2C+explore%2C+and+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F77D00&width=800&lines=Hi%2C+I'm+Stanley!;I'm+a+3rd+year+CS+Major+at+UBC;I+love+to+learn+and+explore)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on learning backend development
 - 🌱 I’m currently learning machine learning, algorithms and data structures, data science
