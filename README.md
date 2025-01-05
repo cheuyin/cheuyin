@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Stanley Cheung 
 
-`CS (3rd Year) Major at UBC`
+`Major in Computer Science (3rd Year) at UBC`
 
 - 🔭 I’m currently working on learning backend development
 - 🌱 I’m currently learning machine learning, algorithms and data structures, data science
