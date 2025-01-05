@@ -10,4 +10,4 @@
 - ⚡ Fun fact: currently taking a course on early Chinese history!
 
 ## 📊 Stats
-[![cheuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheuyin)](https://github.com/anuraghazra/github-readme-stats/api?username=cheuyin&show_icons=true&theme=merko)
+[![cheuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheuyin&show_icons=true&theme=merko)]
