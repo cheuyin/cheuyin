@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Stanley Cheung 
+# 🦾 Stanley Cheung 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF9D12&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Stanley!;I'm+a+3rd+year+CS+Major+at+UBC;I+like+solving+technical+problems)](https://git.io/typing-svg)
 
