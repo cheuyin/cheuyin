@@ -9,5 +9,20 @@
 - 📫 How to reach me: email, LinkedIn
 - ⚡ Fun fact: currently taking a course on early Chinese history!
 
+## 🛠️ Skills
+### Languages
+
+### Frameworks
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50" height="40"/>
+</div>
+
+### Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt='git' width='50' height="40" />  
+</div>
+
+
+
 ## 📊 Stats
 ![cheuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheuyin&show_icons=true&theme=great-gatsby)
