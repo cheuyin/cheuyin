@@ -19,6 +19,11 @@
 - CPSC 313: Computer Hardware and Operating Systems
 - CPSC 221: Basic Data Structures and Algorithms
 
+## 🖥️ Featured Projects
+- [Pathfinding Visualizer](https://github.com/cheuyin/pathfinding-visualizer): a React/TS app for visualizing Dijkstra's, A*, and other pathfinding algorithms
+- [Two Chess](https://github.com/cheuyin/two-chess): Java implementation of local two-player chess, with comprehensive testing
+- [Ecowander.ai](https://github.com/apramm/Ecowander.ai): Designed and coded the UI for an AI-powered AWS application that plans sustainable trips
+
 ## 🛠️ Skills
 
 ### Languages
