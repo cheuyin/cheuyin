@@ -1,13 +1,13 @@
 # 🦾 Stanley Cheung 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF9D12&vCenter=true&width=800&height=80&lines=Hi!+I'm+a+3rd+year+CS+major+at+UBC;Currently+exploring+backend+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF9D12&vCenter=true&width=800&height=80&lines=Hi!+I'm+a+3rd+year+CS+major+at+UBC;trying+to+absorb+as+much+as+I+can;about+backend+dev+and+all+other+things+CS)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on learning backend development
-- 🌱 I’m currently learning machine learning, algorithms and data structures, data science
-- 👯 I’m looking to collaborate on coding projects
-- 💬 Ask me about computer science, ethical dilemmas, hypertrophy, bulking on a budget
+## 🌟 About Me
+- ❤️ I care about writing high-quality code, designing useful products, and having fun, good-faith discussions about ideas
+- 🌱 I’m currently learning Python, backend development, machine learning, "good" software engineering, algorithms and data structures, and data science
+- 💬 Ask me about computer science, ethical dilemmas, time management, or bulking on a budget!
 - 📫 How to reach me: email, LinkedIn
-- ⚡ Fun fact: currently taking a course on early Chinese history!
+- 🏮 Fun fact: currently diving deep into early Chinese history!
 
 ## 📚 Coursework
 - CPSC 330: Applied Machine Learning (In Progress)
