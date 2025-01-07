@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - ❤️ I care about writing high-quality code, designing useful products, and having fun, good-faith discussions about ideas
-- 🌱 I’m currently learning Python, backend development, machine learning, "good" software engineering, algorithms and data structures, and data science
+- 🌱 I’m currently learning Python, backend development, machine learning, software engineering best practices, algorithms and data structures, and data science
 - 💬 Ask me about computer science, ethical dilemmas, time management, or bulking on a budget!
 - 📫 How to reach me: email, LinkedIn
 - 🏮 Fun fact: currently diving deep into early Chinese history!
