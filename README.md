@@ -13,6 +13,7 @@
 
 ## 📚 Coursework
 - CPSC 330: Applied Machine Learning (In Progress)
+- CPSC 317: Computer Networking (In Progress)
 - CPSC 310: Introduction to Software Engineering (In Progress)
 - CPSC 320: Intermediate Data Structures and Algorithms (In Progress)
 - CPSC 304: Introduction to Relational Databases
