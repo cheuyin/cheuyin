@@ -9,12 +9,11 @@
 - 🌱 I’m currently learning Python, backend development, machine learning, software engineering best practices, algorithms and data structures, and data science
 - 💬 Ask me about computer science, ethical dilemmas, time management, or bulking on a budget!
 - 📫 How to reach me: email, LinkedIn
-- 🏮 Fun fact: currently diving deep into early Chinese history!
+- 🏮 Fun fact: currently diving deep into Cantonese history!
 
 ## 📚 Coursework
 - CPSC 330: Applied Machine Learning (In Progress)
 - CPSC 317: Computer Networking (In Progress)
-- CPSC 310: Introduction to Software Engineering (In Progress)
 - CPSC 320: Intermediate Data Structures and Algorithms (In Progress)
 - CPSC 304: Introduction to Relational Databases
 - CPSC 313: Computer Hardware and Operating Systems
