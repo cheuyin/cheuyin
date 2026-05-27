@@ -1,8 +1,8 @@
 # 🦾 Stanley Cheung
 
-[Summer 2025 Resume](https://github.com/cheuyin/resume-for-summer-2025/blob/main/resume.pdf) 
+[Resume](https://github.com/cheuyin/resume/blob/main/resume.pdf)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF9D12&vCenter=true&width=800&height=80&lines=Hi!+I'm+a+3rd+year+CS+major+at+UBC;trying+to+absorb+as+much+as+I+can;about+backend+dev+and+all+other+things+CS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF9D12&vCenter=true&width=800&height=80&lines=Hi!+I'm+a+4th+year+CS+major+at+UBC;trying+to+absorb+as+much+as+I+can;about+backend+dev+and+all+other+things+CS)](https://git.io/typing-svg)
 
 ## 🌟 About Me
 - ❤️ I care about writing high-quality code, designing useful products, and having fun, good-faith discussions about ideas
