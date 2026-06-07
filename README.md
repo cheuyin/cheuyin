@@ -12,9 +12,11 @@
 - 🏮 Fun fact: currently diving deep into Cantonese history!
 
 ## 📚 Coursework
-- CPSC 330: Applied Machine Learning (In Progress)
-- CPSC 317: Computer Networking (In Progress)
-- CPSC 320: Intermediate Data Structures and Algorithms (In Progress)
+- CPSC 310: Introduction to Software Engineering
+- CPSC 344: Introduction to Human Computer Interaction Methods
+- CPSC 330: Applied Machine Learning
+- CPSC 317: Computer Networking
+- CPSC 320: Intermediate Data Structures and Algorithms
 - CPSC 304: Introduction to Relational Databases
 - CPSC 313: Computer Hardware and Operating Systems
 - CPSC 221: Basic Data Structures and Algorithms
@@ -28,10 +30,8 @@
 
 ### Languages
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="40" />
 </div>
 
 ### Frameworks
@@ -48,7 +48,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="40" />
 </div>
-
-
-## 📊 Stats
-![cheuyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheuyin&show_icons=true&theme=great-gatsby)
