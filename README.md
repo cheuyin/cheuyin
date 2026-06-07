@@ -1,50 +1,56 @@
-# 🦾 Stanley Cheung
+# ⚡︎ Stanley Cheung
 
-[Resume](https://github.com/cheuyin/resume/blob/main/resume.pdf)
+[Resume](https://github.com/cheuyin/resume/blob/main/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/yinstanleycheung/) | [Email](mailto:yinstanleycheung@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF9D12&vCenter=true&width=800&height=80&lines=Hi!+I'm+a+4th+year+CS+major+at+UBC;trying+to+absorb+as+much+as+I+can;about+backend+dev+and+all+other+things+CS)](https://git.io/typing-svg)
+## 🚀 About Me
+4th Year Computer Science student at the University of British Columbia specializing in backend engineering and relational database systems. 
 
-## 🌟 About Me
-- ❤️ I care about writing high-quality code, designing useful products, and having fun, good-faith discussions about ideas
-- 🌱 I’m currently learning Python, backend development, machine learning, software engineering best practices, algorithms and data structures, and data science
-- 💬 Ask me about computer science, ethical dilemmas, time management, or bulking on a budget!
-- 📫 How to reach me: email, LinkedIn
-- 🏮 Fun fact: currently diving deep into Cantonese history!
+*   **Current Focus:** Designing and building production-grade, asynchronous backend architectures.
+*   **Active Project:** Developing a highly scalable task management API utilizing an asynchronous Python ecosystem (**FastAPI**, **SQLModel**, **PostgreSQL**) to implement robust data validation, query optimization, and structured relational mapping.
 
-## 📚 Coursework
-- CPSC 310: Introduction to Software Engineering
-- CPSC 344: Introduction to Human Computer Interaction Methods
-- CPSC 330: Applied Machine Learning
-- CPSC 317: Computer Networking
-- CPSC 320: Intermediate Data Structures and Algorithms
-- CPSC 304: Introduction to Relational Databases
-- CPSC 313: Computer Hardware and Operating Systems
-- CPSC 221: Basic Data Structures and Algorithms
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core Frameworks
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="35" />
+</div>
+
+### Databases, Cloud & Infrastructure
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="35" />
+</div>
+
+---
 
 ## 🖥️ Featured Projects
-- [Pathfinding Visualizer](https://github.com/cheuyin/pathfinding-visualizer): a React/TS app for visualizing Dijkstra's, A*, and other pathfinding algorithms
-- [Two Chess](https://github.com/cheuyin/two-chess): Java implementation of local two-player chess, with comprehensive testing
-- [Ecowander.ai](https://github.com/apramm/Ecowander.ai): Designed and coded the UI for an AI-powered AWS application that plans sustainable trips
 
-## 🛠️ Skills
+### [Production Task Management API](YOUR_REPO_LINK) (In Progress)
+*   **Stack:** Python, FastAPI, SQLModel, PostgreSQL, Docker
+*   Built a production-grade REST API implementing structured relational database mapping via SQLModel.
+*   Enforced clean architecture boundaries, strict Pydantic data validation, and optimized async query execution.
 
-### Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="40" />
-</div>
+### [Ecowander.ai](https://github.com/apramm/Ecowander.ai)
+*   **Stack:** AWS, Python, React
+*   Co-developed an AI-powered travel optimization platform deployed on AWS infrastructure.
+*   Interfaced frontend interfaces seamlessly with cloud native microservices to process real-time environmental data.
 
-### Frameworks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt='Express.js' width='50' height='40' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React.js" width="50" height="40" />
-</div>
+### [Two Chess](https://github.com/cheuyin/two-chess)
+*   **Stack:** Java
+*   Engineered a standalone, object-oriented two-player chess engine featuring strict game-state management logic.
+*   Implemented comprehensive unit test suites ensuring deterministic move validation and state regression protection.
 
-### Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="40" />
-</div>
+---
+
+## 📚 Upper-Level Coursework
+*   **Systems & Data:** Relational Databases (CPSC 304), Computer Networking (CPSC 317), Operating Systems & Hardware (CPSC 313)
+*   **Software Engineering:** Software Engineering Best Practices (CPSC 310), Intermediate Algorithms & Data Structures (CPSC 320)
+*   **Intelligence:** Applied Machine Learning (CPSC 330)
