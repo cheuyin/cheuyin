@@ -1,4 +1,4 @@
-# ⚡︎ Stanley Cheung
+# ⚡︎ Stanley Cheung ⚡︎
 
 [Resume](https://github.com/cheuyin/resume/blob/main/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/yinstanleycheung/) | [Email](mailto:yinstanleycheung@gmail.com)
 
