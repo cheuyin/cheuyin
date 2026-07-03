@@ -40,7 +40,7 @@ My current project that I'm very excited about is a [Choose Your Adventure](Crea
 ### [AutoDater (current: 37 users)](https://community.obsidian.md/plugins/autodater)
 *   **Stack:** TypeScript, Obsidian API
 *   Developed an open-source Obsidian plugin for time-stamping your notes (I really needed this)
-*   Carefully researched Obsidian plugin docs to follow best practices, achieving a 100% rating on Health and Review checks
+*   Carefully studied Obsidian plugin docs to follow best practices, achieving a 100% rating on Health and Review checks
 
 ### [UBC Explorer](https://github.com/cheuyin/ubc-course-explorer)
 *   **Stack:** TypeScript, Express.js, Jest
