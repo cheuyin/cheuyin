@@ -3,10 +3,9 @@
 [Resume](https://github.com/cheuyin/resume/blob/main/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/yinstanleycheung/) | [Email](mailto:yinstanleycheung@gmail.com)
 
 ## 🚀 About Me
-Hi! I'm a 4th Year Computer Science student at the University of British Columbia interested in full-stack development and AI engineering. In my previous internship at VoltSafe, I built end-to-end full-stack features for marina customers using React, TypeScript, Express, and AWS. Currently, I'm learning Python + FastAPI. Some fun projects I've recently completed are a local AI agent using the Gemini API and a Pong clone using Pygame, both written in Python.
+Hi! I'm a 4th Year Computer Science student at the University of British Columbia interested in full-stack development and AI engineering. In my previous internship at VoltSafe, I built end-to-end full-stack features for marina customers using React, TypeScript, Express, and AWS. Currently, I'm learning Python + FastAPI. Some fun projects I've recently completed are a local AI agent using the Gemini API and a Pong clone using Pygame, both written in Python. 
 
-*   **Current Focus:** Designing and building production-grade, asynchronous backend architectures.
-*   **Active Project:** Developing a highly scalable task management API utilizing an asynchronous Python ecosystem (**FastAPI**, **SQLModel**, **PostgreSQL**) to implement robust data validation, query optimization, and structured relational mapping.
+My current project that I'm very excited about is a [Choose Your Adventure](CreateYourStory.ai) game using React + FastAPI + LangChain that lets users generate interactive stories using AI. This is a fully fledged web app with a PostgreSQL database, and deployed on Render.
 
 ---
 
@@ -52,4 +51,4 @@ Hi! I'm a 4th Year Computer Science student at the University of British Columbi
 ## 📚 CS Coursework
 *   **Systems & Data:** Relational Databases (CPSC 304), Computer Networking (CPSC 317), Operating Systems & Hardware (CPSC 313)
 *   **Software Engineering:** Software Engineering Best Practices (CPSC 310), Intermediate Algorithms & Data Structures (CPSC 320)
-*   **Intelligence:** Applied Machine Learning (CPSC 330)
+*   **AI:** Applied Machine Learning (CPSC 330)
