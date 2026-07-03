@@ -31,15 +31,16 @@ My current project that I'm very excited about is a [Choose Your Adventure](Crea
 
 ## 🖥️ Featured Projects
 
-### [Production Task Management API](YOUR_REPO_LINK) (In Progress)
-*   **Stack:** Python, FastAPI, SQLModel, PostgreSQL, Docker
-*   Built a production-grade REST API implementing structured relational database mapping via SQLModel.
-*   Enforced clean architecture boundaries, strict Pydantic data validation, and optimized async query execution.
+### [CreateYourStory.ai](https://github.com/cheuyin/createyourstory.ai) (In Progress)
+*   **Stack:** Python, FastAPI, SQLModel, React, TanStack Query, SQLite, LangChain
+*   A Choose-Your-Adventure game powered by AI
+*   Used data structure principles to flatten LLM response schema, improving prompt effectiveness by 3x
+*   Built a RESTful API using FastAPI with local SQLite3 storage
 
-### [Ecowander.ai](https://github.com/apramm/Ecowander.ai)
-*   **Stack:** AWS, Python, React
-*   Co-developed an AI-powered travel optimization platform deployed on AWS infrastructure.
-*   Interfaced frontend interfaces seamlessly with cloud native microservices to process real-time environmental data.
+### [AutoDater (current: 37 users)]([https://github.com/apramm/Ecowander.ai](https://github.com/cheuyin/autodater))
+*   **Stack:** TypeScript, Obsidian API
+*   Developed an open-source Obsidian plugin for time-stamping your notes (I really needed this)
+*   Carefull researched Obsidian plugin docs to follow best practices, achieving a 100% rating on Health and Review checks
 
 ### [Two Chess](https://github.com/cheuyin/two-chess)
 *   **Stack:** Java
