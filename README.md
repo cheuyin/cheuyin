@@ -37,15 +37,15 @@ My current project that I'm very excited about is a [Choose Your Adventure](Crea
 *   Used data structure principles to flatten LLM response schema, improving prompt effectiveness by 3x
 *   Built a RESTful API using FastAPI with local SQLite3 storage
 
-### [AutoDater (current: 37 users)]([https://github.com/apramm/Ecowander.ai](https://github.com/cheuyin/autodater))
+### [AutoDater (current: 37 users)](https://community.obsidian.md/plugins/autodater)
 *   **Stack:** TypeScript, Obsidian API
 *   Developed an open-source Obsidian plugin for time-stamping your notes (I really needed this)
-*   Carefull researched Obsidian plugin docs to follow best practices, achieving a 100% rating on Health and Review checks
+*   Carefully researched Obsidian plugin docs to follow best practices, achieving a 100% rating on Health and Review checks
 
-### [Two Chess](https://github.com/cheuyin/two-chess)
-*   **Stack:** Java
-*   Engineered a standalone, object-oriented two-player chess engine featuring strict game-state management logic.
-*   Implemented comprehensive unit test suites ensuring deterministic move validation and state regression protection.
+### [UBC Explorer](https://github.com/cheuyin/ubc-course-explorer)
+*   **Stack:** TypeScript, Express.js, Jest
+*   A full-stack data visualization tool for exploring UBC course and campus facilities data
+*   Fully-fledged backend with a layered architecture, complete CRUD routes for 3 different types of resources (buildings, courses, sections), API versioning, and 2,000+ lines of tests with 90%+ coverage
 
 ---
 
