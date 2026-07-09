@@ -37,7 +37,7 @@ My current project that I'm very excited about is a [Choose Your Adventure](Crea
 *   Used data structure principles to flatten LLM response schema, improving prompt effectiveness by 3x
 *   Built a RESTful API using FastAPI with local SQLite3 storage
 
-### [AutoDater (current: 37 users)](https://community.obsidian.md/plugins/autodater)
+### [AutoDater (current: 85 users)](https://community.obsidian.md/plugins/autodater)
 *   **Stack:** TypeScript, Obsidian API
 *   Developed an open-source Obsidian plugin for time-stamping your notes (I really needed this)
 *   Carefully studied Obsidian plugin docs to follow best practices, achieving a 100% rating on Health and Review checks
