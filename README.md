@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Hi! I'm a 4th Year Computer Science student at the University of British Columbia interested in full-stack development and AI engineering. In my previous internship at VoltSafe, I built end-to-end full-stack features for marina customers using React, TypeScript, Express, and AWS. Currently, I'm learning Python + FastAPI. Some fun projects I've recently completed are a local AI agent using the Gemini API and a Pong clone using Pygame, both written in Python. 
 
-My current project that I'm very excited about is a [Choose Your Adventure](CreateYourStory.ai) game using React + FastAPI + LangChain that lets users generate interactive stories using AI. This is a fully fledged web app with a PostgreSQL database, and deployed on Render.
+My most recent full-stack project is a [Choose Your Adventure](https://createyourstory-ai-backend.onrender.com/) game built with React + FastAPI + LangChain that lets users generate branching interactive stories using AI.
 
 ---
 
@@ -31,11 +31,11 @@ My current project that I'm very excited about is a [Choose Your Adventure](Crea
 
 ## 🖥️ Featured Projects
 
-### [CreateYourStory.ai](https://github.com/cheuyin/createyourstory.ai) (In Progress)
+### [CreateYourStory.ai](https://github.com/cheuyin/createyourstory.ai)
 *   **Stack:** Python, FastAPI, SQLModel, React, TanStack Query, SQLite, LangChain
-*   A Choose-Your-Adventure game powered by AI
-*   Used data structure principles to flatten LLM response schema, improving prompt effectiveness by 3x
-*   Built a RESTful API using FastAPI with local SQLite3 storage
+*   Built an AI-powered Choose-Your-Adventure game that generates branching narratives and photorealistic cover art
+*   Implemented JWT-based authentication and per-user story persistence, enabling users to securely save and revisit their stories
+*   Designed a RESTful FastAPI backend with asynchronous background jobs for non-blocking, long-running story generation
 
 ### [AutoDater (current: 108 users)](https://community.obsidian.md/plugins/autodater)
 *   **Stack:** TypeScript, Obsidian API
